@@ -1,2 +1,2 @@
-# SW420-Cam-bien-rung
+# SW420-Cảm biến rung
 vibration sensor sw-420
